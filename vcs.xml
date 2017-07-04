@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/ProjectHeartRate/GroupProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fortuna22/A3csci3130.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Jung-Soo\AndroidStudioProjects" />
